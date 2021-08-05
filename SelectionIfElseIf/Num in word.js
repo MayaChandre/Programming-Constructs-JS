@@ -2,6 +2,7 @@
 
 let number = Math.floor(Math.random() * 10);
 let num;
+
 if( number == 0) {
     num = 'zero';
 } else if (number == 1) {
